@@ -1,0 +1,12 @@
+{
+  "question": {
+    "text": "if marlon brando is from california where did his eyes go"
+  },
+  "answers": [
+    { "poll_media": { "text": "florida" } },
+    { "poll_media": { "text": "the moon" } },
+    { "poll_media": { "text": "the tesla factory" } },
+    { "poll_media": { "text": "some guys shed" } }
+  ],
+  "duration": 1
+}
